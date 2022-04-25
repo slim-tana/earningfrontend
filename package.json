@@ -1,0 +1,63 @@
+{
+  "name": "Earning",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "https://unpkg.com/",
+  "dependencies": {
+    "@ffmpeg/core": "^0.10.0",
+    "@ffmpeg/ffmpeg": "^0.9.8",
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "bootstrap": "^5.1.3",
+    "classnames": "^2.2.6",
+    "face-api.js": "^0.22.1",
+    "react": "^16.8.6",
+    "react-bootstrap": "^2.2.3",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^5.0.0",
+    "react-switch": "^5.0.0",
+    "react-webcam": "^1.1.1",
+    "recharts": "^2.1.9",
+    "recordrtc": "^5.6.2",
+    "sass": "^1.50.0",
+    "simple-peer": "^9.11.1",
+    "styled-components": "^5.3.5",
+    "wavesurfer.js": "^6.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/react": "^3.2.1",
+    "@reduxjs/toolkit": "^1.8.1",
+    "axios": "^0.26.1",
+    "prop-types": "^15.8.1",
+    "react-copy-to-clipboard": "^5.0.4",
+    "react-dropzone": "^12.0.5",
+    "react-redux": "^8.0.1",
+    "react-router-dom": "^6.3.0",
+    "reactstrap": "^9.0.1",
+    "screenfull": "^6.0.1",
+    "socket.io-client": "^4.4.1",
+    "use-timer": "^2.0.1"
+  }
+}
